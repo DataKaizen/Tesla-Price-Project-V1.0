@@ -24,3 +24,6 @@ What are some other things I could improve upon?
   - stay consistent with naming conventions (sometimes I would flip flop my names)
   - overtime, I should develop my own style for presentations (my goal is to make my PPTs simple and impactful)
   - make math equations clear and clean
+
+Link to Project here: [Tesla Project](https://docs.google.com/presentation/d/1RbI9cazp-NL8PED0yDOieHfqSzBg370NoX9dgkAqaZE/edit?usp=sharing)
+
